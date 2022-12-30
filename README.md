@@ -1,2 +1,3 @@
 # red-black-tree
-red black tree random sh**
+a simple impletation of rede black tree
+
